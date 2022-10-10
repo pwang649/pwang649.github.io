@@ -13,14 +13,18 @@ I am motivated by researching and developing new technologies, working to solve 
 ## Bulletin
 
 - Consider submitting to [International Conference on Autonomous Agents and Multi-Agent Systems 2022](https://aamas2022-conference.auckland.ac.nz/)!
+- Learn reinforcement learning, optimization and approximation algorithms!
+- Add AI agent in project [PokerSC](projects)!
 
 ## Research
 
-I'm a research assistant at [Interactive and Collaborative Autonomous Robotic Systems (ICAROS) Lab](http://icaros.usc.edu/) Lab advised by [Dr. Stefanos Nikolaidis](https://stefanosnikolaidis.net/). My research focuses on learning and planning for multi-robot and human-robot systems and developing robotic systems for real-world problems. 
+I'm currently a research assistant at [Interactive and Collaborative Autonomous Robotic Systems (ICAROS) Lab](http://icaros.usc.edu/) Lab advised by [Dr. Stefanos Nikolaidis](https://stefanosnikolaidis.net/). My research focuses on learning and planning for multi-robot and human-robot systems and developing robotic systems for real-world problems. 
+
+Last year, I Worked on the design and control of a light-weight low-cost quadruped robot under the mentorship of [Dr. Quan Nyugen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/) at USC. I co-lead the software control sub team and develop impedance and force control on the robot legs as well as developed and troubleshooted electrical hardware for the robot's 8-joint actuator system.
 
 ## Publications
 
-- **Upcoming**
+- **Comming soon...**
 
 ## Teaching experience
 
