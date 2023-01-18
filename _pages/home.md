@@ -38,7 +38,7 @@ In 2021, I worked on the design and control of a light-weight low-cost quadruped
 - [USC Provost's Research Fellowship](https://undergrad.usc.edu/experience/research/undergrad_research/) (Spring 2023)
 - [W.V.T. Rusch Undergraduate Engineering Honors Program](https://viterbiundergrad.usc.edu/ehp/)
 - [Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship](https://viterbiundergrad.usc.edu/research/curve/)
-- Dean's list from Fall 2020 to Spring 2022
+- Dean's list from Fall 2020 to Fall 2022
 - Academic Achievement Award Spring 2021, Fall 2022
 - ABC Innovation Prize
 
