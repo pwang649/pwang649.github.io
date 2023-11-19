@@ -23,15 +23,17 @@ I am broadly interested in **robot planning** (long-horizon, manipulation, and m
 
 I am currently doing research with [Maxim Likhachev](https://www.ri.cmu.edu/ri-faculty/maxim-likhachev/) at CMU working on 3D Multi-Agent Path Finding (MAPF) and ML MAPF. 
 
-I was fortunate to get involved in several research experiences in the past at USC. I worked on DNN-MCTS parallelization under the supervision of [Viktor Prasanna](https://sites.usc.edu/prasanna/). I worked on enhancing human-robot interaction using the Task and Motion Planning framework with the advisement of [Dr. Stefanos Nikolaidis](https://stefanosnikolaidis.net/) at the [Interactive and Collaborative Autonomous Robotic Systems (ICAROS)](http://icaros.usc.edu/). I worked on the design and control of a lightweight low-cost quadruped robot under the mentorship of [Dr. Quan Nyugen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/).
+I was fortunate to participate in several research projects in the past at USC. I worked on DNN-MCTS parallelization under the supervision of [Viktor Prasanna](https://sites.usc.edu/prasanna/). I worked on enhancing human-robot interaction using the Task and Motion Planning framework with the advisement of [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) at the [ICAROS](http://icaros.usc.edu/) lab. I worked on the design and control of a lightweight low-cost quadruped robot under the mentorship of [Quan Nyugen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [DRCL](https://sites.usc.edu/quann/) lab.
 
 ## Publications
 
-- **MAPF in 3D Warehouses: Dataset and Analysis**
-  - Qian Wang, Rishi Veerapaneni, Jiaoyang Li, Maxim Likhachev. In submission to AAAI 2024.
+- **MAPF in 3D Warehouses: Dataset and Analysis** <br>
+  **Qian Wang**, Rishi Veerapaneni, Jiaoyang Li, Maxim Likhachev. <br>
+  *In submission to AAAI, 2024*
 
-- **Accelerating Deep Neural Network-guided MCTS using Adaptive Parallelism** [Link](https://arxiv.org/pdf/2310.05313.pdf)
-  - Yuan Meng\*, Qian Wang\*, Tianxin Zu, Viktor Prasanna. 13th Workshop on Irregular Applications: Architectures and Algorithms (IA^3 2023).
+- [**Accelerating Deep Neural Network guided MCTS using Adaptive Parallelism**](https://arxiv.org/pdf/2310.05313.pdf) <br>
+  Yuan Meng\*, **Qian Wang\***, Tianxin Zu, Viktor Prasanna. <br>
+  *13th Workshop on Irregular Applications: Architectures and Algorithms (IA^3, 2023)*
 
 ## Teaching Experience
 
@@ -40,21 +42,21 @@ I was fortunate to get involved in several research experiences in the past at U
 - Spring 2023: Lab Mentor for *EE354: Intro to Digital Circuits* with Prof. Gandhi Puvvada
 - Fall 2022: Course Producer for *EE 109: Intro to Embedded Systems* with Prof. Mark Redekopp
 
-## Honors and Awards
+<!-- ## Honors and Awards
 
-- [USC Provost's Research Fellowship](https://undergrad.usc.edu/experience/research/undergrad_research/) (Spring 2023)
-- [W.V.T. Rusch Undergraduate Engineering Honors Program](https://viterbiundergrad.usc.edu/ehp/)
-- [Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship](https://viterbiundergrad.usc.edu/research/curve/)
-- Dean's list from Fall 2020 to Fall 2022
-- Academic Achievement Award Spring 2021, Fall 2022
+- [**USC Provost's Research Fellowship**](https://undergrad.usc.edu/experience/research/undergrad_research/) (Spring 2023)
+- [**W.V.T. Rusch Undergraduate Engineering Honors Program**](https://viterbiundergrad.usc.edu/ehp/)
+- [**Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship**](https://viterbiundergrad.usc.edu/research/curve/)
+- **Dean's list** from Fall 2020 to Fall 2022
+- **Academic Achievement Award** Spring 2021, Fall 2022 -->
 
-## Skills
+<!-- ## Skills
 
 - **+5 yrs**:
   - Python, Java, C/C++, JavaScript, HTML, Git
 - **+2 yrs**:
   - MATLAB, LaTeX, R
-  - Pytorch, PyBullet, CUDA, ROS, Linux
+  - Pytorch, PyBullet, CUDA, ROS, Linux -->
 
 ## Contact
 
