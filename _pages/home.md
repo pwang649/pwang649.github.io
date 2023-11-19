@@ -6,33 +6,38 @@ author_profile: true
 classes: wide
 ---
 
-Hi, I’m Qian Wang, but I go by Peter! I am a Junior at USC studying Computer Engineering and Computer Science and Applied Math. I am passionate about robotics and machine learning research.
+Hi, I’m Qian Wang, but I go by Peter! I am a Senior at the University of Southern California (USC) studying Computer Engineering and Computer Science and Applied Math.
 
-I am motivated by researching and developing new technologies, working to solve important problems, and learning new things every day. I enjoy understanding how things work and why. I like to see the big picture but also appreciate the small details. I am inspired by watching new ideas become new realities. I enjoy the challenges of building robust robotic systems that provide real-world value, finding new ways to apply cutting-edge research to today's problems, and working with teams of smart, passionate people.
+I am broadly interested in **robot planning** (long-horizon, manipulation, and multi-agent), particularly building agents that mimic human decision-making and act like humans. My research focuses on scalable methods that enable robots to perform complex, long-horizon tasks. So far, I have centered my research on developing better methods, both low-level search-based and high-level learning-based, to empower robots to accomplish fundamental and sophisticated tasks. Ultimately, I hope that robots and machines can be equipped with high-level cognitive skills to assist people in their daily lives and low-level motor skills to execute complex tasks effectively.
 
-## Bulletin
+<!-- ## Bulletin
 
 - Finish the work on *Guided Object Placement Sampling for Efficient Geometric Task-and-Motion Planning* before April 30th.
 - Start working on *Multi-Core Acceleration of DNN-guided Tree-Parallel MCTS using Adaptive Parallelism*.
 - Continue working on *Enhancing the Performance of DeepReach on High-Dimensional Systems through Activation Function Optimization*.
 - Learn deep and multi-agent reinforcement learning.
 - Learn Stanford's [CS223A - Introduction to Robotics](https://see.stanford.edu/course/cs223a) class.
-- Continue replenishing my [wiki page](myWiki).
+- Continue replenishing my [wiki page](myWiki). -->
 
 ## Research
 
-I'm currently a research assistant at the [Interactive and Collaborative Autonomous Robotic Systems (ICAROS)](http://icaros.usc.edu/) Lab advised by [Dr. Stefanos Nikolaidis](https://stefanosnikolaidis.net/). My research focuses on learning and planning for multi-robot and human-robot systems and developing robotic systems for real-world problems. A part of my current work is revealed [here](https://pwang649.github.io/myWiki/Research/Research%20-%20Placement%20Optimization).
+I am currently doing research with [Maxim Likhachev](https://www.ri.cmu.edu/ri-faculty/maxim-likhachev/) at CMU working on 3D Multi-Agent Path Finding (MAPF) and ML MAPF. 
 
-In 2021, I worked on the design and control of a lightweight low-cost quadruped robot under the mentorship of [Dr. Quan Nyugen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/) at USC. I co-lead the software control sub-team and develop impedance and force control on the robot legs as well as developed and troubleshot electrical hardware for the robot's 8-joint actuator system.
+I was fortunate to get involved in several research experiences in the past at USC. I worked on DNN-MCTS parallelization under the supervision of [Viktor Prasanna](https://sites.usc.edu/prasanna/). I worked on enhancing human-robot interaction using the Task and Motion Planning framework with the advisement of [Dr. Stefanos Nikolaidis](https://stefanosnikolaidis.net/) at the [Interactive and Collaborative Autonomous Robotic Systems (ICAROS)](http://icaros.usc.edu/). I worked on the design and control of a lightweight low-cost quadruped robot under the mentorship of [Dr. Quan Nyugen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/).
 
 ## Publications
 
-- **Coming soon...**
+- **MAPF in 3D Warehouses: Dataset and Analysis**
+  - Qian Wang, Rishi Veerapaneni, Jiaoyang Li, Maxim Likhachev. In submission to AAAI 2024.
+
+- **Accelerating Deep Neural Network-guided MCTS using Adaptive Parallelism** [Link](https://arxiv.org/pdf/2310.05313.pdf)
+  - Yuan Meng\*, Qian Wang\*, Tianxin Zu, Viktor Prasanna. 13th Workshop on Irregular Applications: Architectures and Algorithms (IA^3 2023).
 
 ## Teaching Experience
 
+- Spring 2023 & Fall 2023: Course Producer for *CSCI 360: Intro to Artificial Intelligence* with Prof. Mohammad Rajati
+- Spring 2023: Grader for *EE451: Parallel and Distributed Computations* with Prof. Viktor Prasanna
 - Spring 2023: Lab Mentor for *EE354: Intro to Digital Circuits* with Prof. Gandhi Puvvada
-- Spring 2023: Course Producer for *CSCI 360: Intro to Artificial Intelligence* with Prof. Mohammad Rajati
 - Fall 2022: Course Producer for *EE 109: Intro to Embedded Systems* with Prof. Mark Redekopp
 
 ## Honors and Awards
@@ -42,7 +47,6 @@ In 2021, I worked on the design and control of a lightweight low-cost quadruped 
 - [Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship](https://viterbiundergrad.usc.edu/research/curve/)
 - Dean's list from Fall 2020 to Fall 2022
 - Academic Achievement Award Spring 2021, Fall 2022
-- ABC Innovation Prize
 
 ## Skills
 
