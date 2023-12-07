@@ -12,6 +12,40 @@
             background-color: bisque;
         }
 
+        #wu22 {
+            transform: translate(-50%, -50%);
+            width: 100px;
+            height: 90px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px;
+            color: white;
+        }
+        #wu22::before,
+        #wu22::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            width: 52px;
+            height: 80px;
+            border-radius: 50px 50px 0 0;
+            background-color: navy;
+        }
+
+        #wu22::before {
+            left: 50px;
+            border-radius: 50px 50px 0 0;
+            transform: rotate(-45deg);
+            transform-origin: 0 100%;
+        }
+
+        #wu22::after {
+            left: 0;
+            transform: rotate(45deg);
+            transform-origin: 100% 100%;
+        }
+
         #todo {
             transform: translate(-50%, -50%);
             width: 100px;
@@ -91,6 +125,10 @@
 </head>
 
 <body>
+    <div id="wu22">
+        <div class="text">22</div>
+    </div>
+
     <div id="todo">
         <div class="text">TODOs</div>
     </div>
@@ -100,8 +138,13 @@
     </div>
 
     <script>
+        const wu22 = document.getElementById("wu22");
         const todo = document.getElementById("todo");
         const heart = document.getElementById("hbd");
+        wu22.onclick = function () {
+            // Use the window.location object to redirect to the specified URL
+            window.location.href = "https://youtu.be/UhEegExJOh4";
+        };
         todo.onclick = function () {
             // Use the window.location object to redirect to the specified URL
             window.location.href = "https://innovative-increase-c0c.notion.site/d2b8f2cdb60d47288f538d0e2915a1f5?v=85eed3f3fb444ab593b482842249b4c3&pvs=4";
@@ -110,24 +153,35 @@
             // Use the window.location object to redirect to the specified URL
             window.location.href = "dou";
         };
-        let animationFrame = 0;
+        let animationFrameWu22 = 0;
+        let animationFrameTodo = 0;
+        let animationFrame18 = 0;
+
+        function animateWu22() {
+            const scale = Math.sin(animationFrameWu22 * 0.1) * 0.1 + 1;
+            wu22.style.transform = `scale(${scale})`;
+
+            animationFrameWu22 += 1;
+            requestAnimationFrame(animateWu22);
+        }
+
 
         function animateTodo() {
-            const scale = Math.sin(animationFrame * 0.1) * 0.1 + 1;
+            const scale = Math.sin(animationFrameTodo * 0.1) * 0.1 + 1;
             todo.style.transform = `scale(${scale})`;
 
-            animationFrame += 1;
+            animationFrameTodo += 1;
             requestAnimationFrame(animateTodo);
         }
 
         function animateHeart() {
-            const scale = Math.sin(animationFrame * 0.1) * 0.1 + 1;
+            const scale = Math.sin(animationFrame18 * 0.1) * 0.1 + 1;
             heart.style.transform = `scale(${scale})`;
 
-            animationFrame += 1;
+            animationFrame18 += 1;
             requestAnimationFrame(animateHeart);
         }
-
+        animateWu22();
         animateTodo();
         animateHeart();
     </script>
