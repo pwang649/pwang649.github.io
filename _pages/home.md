@@ -27,9 +27,9 @@ I was fortunate to participate in several research projects in the past at USC. 
 
 ## Publications
 
-- **Improving Learned Local MAPF Policies with Heuristic Search** <br>
+- **Improving Learnt Local MAPF Policies with Heuristic Search** <br>
   Rishi Veerapaneni\*, **Qian Wang\***, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. <br>
-  *ICAPS 2024*
+  *ICAPS, 2024*
 
 - **MAPF in 3D Warehouses: Dataset and Analysis** <br>
   **Qian Wang\***, Rishi Veerapaneni\*, Yu Wu, Jiaoyang Li, Maxim Likhachev. <br>
