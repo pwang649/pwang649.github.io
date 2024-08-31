@@ -6,6 +6,10 @@ author_profile: true
 classes: wide
 ---
 
+- **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visializer** <br>
+  Muyang Ye, Tianrui Xia, Tianxin Zu, **Qian Wang**, David Kempe <br>
+  *In Review*
+
 - **Improving Learnt Local MAPF Policies with Heuristic Search** <br>
   Rishi Veerapaneni\*, **Qian Wang\***, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. <br>
   *ICAPS, 2024*

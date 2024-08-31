@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Hi, I’m Qian Wang, but I go by Peter! I am a Senior at the University of Southern California (USC) studying Computer Engineering and Computer Science and Applied Math.
+Hi, I’m Qian Wang, but I go by Peter! I am a PhD student advised by [Daniel Rakita](https://dannyrakita.net/) at Yale University. I completed my undergrad at the University of Southern California (USC) studying Computer Engineering and Computer Science and Applied Math.
 
 I am broadly interested in **robot planning** (long-horizon, manipulation, and multi-agent), particularly building agents that mimic human decision-making and act like humans. My research focuses on scalable methods that enable robots to perform complex, long-horizon tasks. So far, I have centered my research on developing better methods, both low-level search-based and high-level learning-based, to empower robots to accomplish fundamental and sophisticated tasks. Ultimately, I hope that robots and machines can be equipped with high-level cognitive skills to assist people in their daily lives and low-level motor skills to execute complex tasks effectively.
 
@@ -21,11 +21,13 @@ I am broadly interested in **robot planning** (long-horizon, manipulation, and m
 
 ## Research
 
-I am currently doing research with [Maxim Likhachev](https://www.ri.cmu.edu/ri-faculty/maxim-likhachev/) at CMU working on 3D Multi-Agent Path Finding (MAPF) and ML MAPF. 
-
-I was fortunate to participate in several research projects in the past at USC. I worked on DNN-MCTS parallelization under the supervision of [Viktor Prasanna](https://sites.usc.edu/prasanna/). I worked on enhancing human-robot interaction using the Task and Motion Planning framework with the advisement of [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) at the [ICAROS](http://icaros.usc.edu/) lab. I worked on the design and control of a lightweight low-cost quadruped robot under the mentorship of [Quan Nyugen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [DRCL](https://sites.usc.edu/quann/) lab.
+I was fortunate to participate in several research projects in the past at USC. I did research with [Maxim Likhachev](https://www.ri.cmu.edu/ri-faculty/maxim-likhachev/) at CMU and worked on 3D Multi-Agent Path Finding (MAPF) and ML MAPF.  I worked on DNN-MCTS parallelization under the supervision of [Viktor Prasanna](https://sites.usc.edu/prasanna/). I worked on enhancing human-robot interaction using the Task and Motion Planning framework with the advisement of [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) at the [ICAROS](http://icaros.usc.edu/) lab. I worked on the design and control of a lightweight low-cost quadruped robot under the mentorship of [Quan Nyugen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [DRCL](https://sites.usc.edu/quann/) lab.
 
 ## Publications
+
+- **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visializer** <br>
+  Muyang Ye, Tianrui Xia, Tianxin Zu, **Qian Wang**, David Kempe <br>
+  *In Review*
 
 - **Improving Learnt Local MAPF Policies with Heuristic Search** <br>
   Rishi Veerapaneni\*, **Qian Wang\***, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. <br>
@@ -51,13 +53,12 @@ I was fortunate to participate in several research projects in the past at USC. 
 - Spring 2023: Lab Mentor for *EE354: Intro to Digital Circuits* with Prof. Gandhi Puvvada
 - Fall 2022: Course Producer for *EE 109: Intro to Embedded Systems* with Prof. Mark Redekopp
 
-<!-- ## Honors and Awards
+## Honors and Awards
 
 - [**USC Provost's Research Fellowship**](https://undergrad.usc.edu/experience/research/undergrad_research/) (Spring 2023)
-- [**W.V.T. Rusch Undergraduate Engineering Honors Program**](https://viterbiundergrad.usc.edu/ehp/)
 - [**Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellowship**](https://viterbiundergrad.usc.edu/research/curve/)
 - **Dean's list** from Fall 2020 to Fall 2022
-- **Academic Achievement Award** Spring 2021, Fall 2022 -->
+- **Academic Achievement Award** Spring 2021, Fall 2022
 
 <!-- ## Skills
 
