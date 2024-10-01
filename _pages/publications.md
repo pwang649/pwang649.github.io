@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-- **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visializer** <br>
+- **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visualizer** <br>
   Muyang Ye, Tianrui Xia, Tianxin Zu, **Qian Wang**, David Kempe <br>
   *In Review*
 

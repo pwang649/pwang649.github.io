@@ -25,7 +25,7 @@ I was fortunate to participate in several research projects in the past at USC. 
 
 ## Publications
 
-- **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visializer** <br>
+- **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visualizer** <br>
   Muyang Ye, Tianrui Xia, Tianxin Zu, **Qian Wang**, David Kempe <br>
   *In Review*
 
@@ -70,5 +70,5 @@ I was fortunate to participate in several research projects in the past at USC. 
 
 ## Contact
 
-- Work-related: pwang649 'at' usc 'dot' edu
+- Work-related: peter.wang.qw262 'at' yale 'dot' edu
 - Everything else: wangqian1207 'at' gmail 'dot' com
