@@ -14,11 +14,11 @@ classes: wide
   Muyang Ye, Tianrui Xia, Tianxin Zu, **Qian Wang**, David Kempe <br>
   *SIGCSE, 2025*
 
-- **Improving Learnt Local MAPF Policies with Heuristic Search** <br>
+- [**Improving Learnt Local MAPF Policies with Heuristic Search**](https://ojs.aaai.org/index.php/ICAPS/article/view/31522/33682) <br>
   Rishi Veerapaneni\*, **Qian Wang\***, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. <br>
   *ICAPS, 2024*
 
-- **MAPF in 3D Warehouses: Dataset and Analysis** <br>
+- [**MAPF in 3D Warehouses: Dataset and Analysis**](https://ojs.aaai.org/index.php/ICAPS/article/view/31525/33685) <br>
   **Qian Wang\***, Rishi Veerapaneni\*, Yu Wu, Jiaoyang Li, Maxim Likhachev. <br>
   *ICAPS, 2024*
 
