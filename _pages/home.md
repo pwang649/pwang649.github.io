@@ -25,9 +25,8 @@ I was fortunate to participate in several research projects in the past at USC. 
 
 ## Publications
 
-- **APOLLO Toolbox: A Flexible, Multi-language Planning, Learning, and
-Optimization Software Suite** <br>
-  Roshan Klein-Seetharaman, Richard Xue, Byron Li, Ryan Tsai, Blaze Goldstein, Chen Liang, Teeratham Vitchutripop, **Qian Wang**, Liam Merz Hoffmeister, Xiatao Sun, Daniel Rakita
+- **APOLLO Toolbox: A Flexible, Multi-language Planning, Learning, and Optimization Software Suite** <br>
+  Roshan Klein-Seetharaman, Richard Xue, Byron Li, Ryan Tsai, Blaze Goldstein, Chen Liang, Teeratham Vitchutripop, **Qian Wang**, Liam Merz Hoffmeister, Xiatao Sun, Daniel Rakita <br>
   *In Review*
 
 - **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visualizer** <br>
