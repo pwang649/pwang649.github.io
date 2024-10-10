@@ -25,9 +25,14 @@ I was fortunate to participate in several research projects in the past at USC. 
 
 ## Publications
 
+- **APOLLO Toolbox: A Flexible, Multi-language Planning, Learning, and
+Optimization Software Suite** <br>
+  Roshan Klein-Seetharaman, Richard Xue, Byron Li, Ryan Tsai, Blaze Goldstein, Chen Liang, Teeratham Vitchutripop, **Qian Wang**, Liam Merz Hoffmeister, Xiatao Sun, Daniel Rakita
+  *In Review*
+
 - **iFlow: An Interactive Max-Flow/Min-Cut Algoritm Visualizer** <br>
   Muyang Ye, Tianrui Xia, Tianxin Zu, **Qian Wang**, David Kempe <br>
-  *In Review*
+  *SIGCSE, 2025*
 
 - **Improving Learnt Local MAPF Policies with Heuristic Search** <br>
   Rishi Veerapaneni\*, **Qian Wang\***, Kevin Ren\*, Arthur Jakobsson\*, Jiaoyang Li, Maxim Likhachev. <br>
